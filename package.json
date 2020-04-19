@@ -4,7 +4,9 @@
   "description": "",
   "main": "app.js",
   "scripts": {
-    "start": "nodemon app.js",
+    "start" : "supervisor app.js",
+    "dev" : "node app.js",
+    "build" : "pm2 app.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {

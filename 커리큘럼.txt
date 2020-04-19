@@ -1,0 +1,55 @@
+1. es6(javascript)
+2. node/express
+3. MySQL(MySQL2, Sequelize)
+4. MongoDB(Mongoose)
+5. FileUpload
+6. Session
+7. CLI
+8. API 서버 구축(RestFUL)
+9. 실무프로젝트(SNS)
+10. 배포(Hiroku, Gabia, AWS)
+
+Editor : WebStorm?(x) > VSCode
+
+Auto Rename Tag
+Color Info
+colorize
+Community Material Theme
+HTML CSS Support
+HTML Snippets
+
+Imagepreview
+IntelliSense for CSS class names inHTML(위에거랑 충돌날 수 있음)
+
+Material Icon Theme
+Material Theme
+Material Theme Icons
+Path Intellisense
+pug beautify
+
+TabNine
+
+VS Color Picker
+
+GoogleFonts
+
+2020-kn-node3-01-hello
+git-scm.com
+
+git config --global user.name 'dfnk5516'
+git config --global user.email 'rayshoo@naver.com'
+
+------------------code 에서
+ctrl + , 환경설정
+ctrl + j 터미널
+git init
+git remote add origin https://github.com/dfnk5516/2020-kn-node3-01-hello.git
+
+왼쪽위에 message 적고 ctrl+enter (그냥 엔터하면 줄바꿈)
+-------------------------------------
+cloning
+주소 복사한다음
+경로에서 git bash 열고
+git clone 주소paste
+
+
